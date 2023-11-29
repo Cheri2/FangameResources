@@ -3,8 +3,9 @@
 * Check if non-ASCII (Basically not English alphabets or numbers) characters are included in the directory. This might include your Windows username - Check full directory.
 * If jtool is not working, try installing [this](https://www.microsoft.com/en-US/download/details.aspx?id=26999).
 ## Fangames are laggy/running slowly!
-* Try [this](https://github.com/omicronrex/dbghelper)
+* Try [this](https://github.com/omicronrex/dbghelper) if you have constant low fps
 * dbghelper also fixes input lags of some fangames! It's highly recommended to use it on every fangame you download.
+* If it has 'lag spikes' or 'sttutering', try setting priority to 'High' in taskmgr.
 ## I minimized the game while it's fullscreen, and I can't find it on task bar.
 * Find the game on taskmgr, then either kill or maximize the window.
 ## Windows defender / Avast / etc detects fangames as viruses!
